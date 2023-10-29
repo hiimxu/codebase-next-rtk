@@ -1,0 +1,1 @@
+npx @rtk-query/codegen-openapi general.js
